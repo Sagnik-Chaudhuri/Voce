@@ -1,4 +1,4 @@
-Voce
+Voce: Open Source Speech Interaction
 (http://voce.sourceforge.net/)
 Copyright (c) 2005-2008
 Tyler Streeter (http://www.tylerstreeter.net)
